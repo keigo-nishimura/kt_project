@@ -2,3 +2,6 @@
 ここにリポジトリの概要を記載する。
 
 # Ruby on Railsによる開発
+RRR
+AAA
+BBB
